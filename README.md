@@ -118,7 +118,7 @@ After playback completes, remains in Loop mode
 
 
 
-#Voice Commands
+# Voice Commands
 
 ## Voice Command Actions
 
@@ -131,7 +131,7 @@ After playback completes, remains in Loop mode
 | Open    | Opens gripper       | Magenta                 |
 | Close   | Closes gripper      | Cyan                    |
 
-#Troubleshooting
+# Troubleshooting
 
 Servo Jitter: If servos are jittering, check power supply adequacy and increase the detach timeout
 
@@ -141,7 +141,7 @@ LEDs Not Working: Verify connections and current-limiting resistors
 
 Unresponsive Buttons: Check debounce implementation and button wiring
 
-#Future Improvements
+# Future Improvements
 
 -Make use of the 3rd servo
 
