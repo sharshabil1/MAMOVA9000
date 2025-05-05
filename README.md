@@ -25,7 +25,7 @@ Power supply sufficient for servo operation
 
 # 3d printing
 
-I provide the STL files for the robot structure  in the part file 
+I provide the STL files for the robot structure  in [](3d_files)
 
 Here you can find the gribber 
 
